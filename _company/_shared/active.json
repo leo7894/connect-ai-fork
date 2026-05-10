@@ -16,5 +16,14 @@
   "designer": {
     "activatedAt": "2026-05-10T15:03:57.730Z",
     "seeded": true
+  },
+  "instagram": {
+    "activatedAt": "2026-05-10T15:17:01.554Z"
+  },
+  "developer": {
+    "activatedAt": "2026-05-10T15:17:29.707Z"
+  },
+  "business": {
+    "activatedAt": "2026-05-10T15:17:38.519Z"
   }
 }
