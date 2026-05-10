@@ -1,5 +1,12 @@
 {
+<<<<<<< HEAD
   "tasksCompleted": 0,
   "knowledgeInjected": 3,
   "lastSessionDate": ""
+=======
+  "tasksCompleted": 5,
+  "knowledgeInjected": 0,
+  "lastSessionDate": "",
+  "foundedAt": "2026-05-10"
+>>>>>>> origin/main
 }

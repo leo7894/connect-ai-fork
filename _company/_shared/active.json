@@ -2,6 +2,7 @@
   "_migrated": true,
   "_migrated_v2": true,
   "secretary": {
+<<<<<<< HEAD
     "activatedAt": "2026-05-10T18:09:01.332Z",
     "seeded": true
   },
@@ -16,5 +17,30 @@
   "designer": {
     "activatedAt": "2026-05-10T18:09:01.332Z",
     "seeded": true
+=======
+    "activatedAt": "2026-05-10T15:03:57.730Z",
+    "seeded": true
+  },
+  "youtube": {
+    "activatedAt": "2026-05-10T15:03:57.730Z",
+    "seeded": true
+  },
+  "writer": {
+    "activatedAt": "2026-05-10T15:03:57.730Z",
+    "seeded": true
+  },
+  "designer": {
+    "activatedAt": "2026-05-10T15:03:57.730Z",
+    "seeded": true
+  },
+  "instagram": {
+    "activatedAt": "2026-05-10T15:17:01.554Z"
+  },
+  "developer": {
+    "activatedAt": "2026-05-10T15:17:29.707Z"
+  },
+  "business": {
+    "activatedAt": "2026-05-10T15:17:38.519Z"
+>>>>>>> origin/main
   }
 }
